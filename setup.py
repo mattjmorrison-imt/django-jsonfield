@@ -30,6 +30,7 @@ setup(
     version='1.0.3',
     packages=['jsonfield'],
     license='MIT',
+    include_package_data=True,
     author='Brad Jasper',
     author_email='bjasper@gmail.com',
     url='https://github.com/bradjasper/django-jsonfield/',
